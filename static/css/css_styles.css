@@ -1,0 +1,28 @@
+body {
+
+    background-color:powderblue;
+
+}
+
+.main {
+
+    text-align:center;
+}
+
+.sideway {
+
+    color:#009900;
+
+    font-size:40px;
+
+    font-weight:bold;
+
+}
+
+#change1 {
+
+    font-style:bold;
+
+    font-size:25px;
+
+}
